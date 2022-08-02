@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <id>9</id>
+    <name>Glenna Reichert</name>
+    <username>Delphine</username>
+    <email>Chaim_McDermott@dana.io</email>
+    <phone>(775)976-6794 x41206</phone>
+    <website>conrad.com</website>
+    <address>
+        <city>Bartholomebury</city>
+        <geo>
+            <lat>24.6463</lat>
+            <lng>-168.8889</lng>
+        </geo>
+        <street>Dayna Park</street>
+        <suite>Suite 449</suite>
+        <zipcode>76495-3109</zipcode>
+    </address>
+    <company>
+        <bs>aggregate real-time technologies</bs>
+        <catchPhrase>Switchable contextually-based project</catchPhrase>
+        <name>Yost and Sons</name>
+    </company>
+</user>

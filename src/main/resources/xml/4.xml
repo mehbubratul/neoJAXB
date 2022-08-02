@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <id>4</id>
+    <name>Patricia Lebsack</name>
+    <username>Karianne</username>
+    <email>Julianne.OConner@kory.org</email>
+    <phone>493-170-9623 x156</phone>
+    <website>kale.biz</website>
+    <address>
+        <city>South Elvis</city>
+        <geo>
+            <lat>29.4572</lat>
+            <lng>-164.2990</lng>
+        </geo>
+        <street>Hoeger Mall</street>
+        <suite>Apt. 692</suite>
+        <zipcode>53919-4257</zipcode>
+    </address>
+    <company>
+        <bs>transition cutting-edge web services</bs>
+        <catchPhrase>Multi-tiered zero tolerance productivity</catchPhrase>
+        <name>Robel-Corkery</name>
+    </company>
+</user>

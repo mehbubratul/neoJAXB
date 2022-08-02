@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <id>6</id>
+    <name>Mrs. Dennis Schulist</name>
+    <username>Leopoldo_Corkery</username>
+    <email>Karley_Dach@jasper.info</email>
+    <phone>1-477-935-8478 x6430</phone>
+    <website>ola.org</website>
+    <address>
+        <city>South Christy</city>
+        <geo>
+            <lat>-71.4197</lat>
+            <lng>71.7478</lng>
+        </geo>
+        <street>Norberto Crossing</street>
+        <suite>Apt. 950</suite>
+        <zipcode>23505-1337</zipcode>
+    </address>
+    <company>
+        <bs>e-enable innovative applications</bs>
+        <catchPhrase>Synchronised bottom-line interface</catchPhrase>
+        <name>Considine-Lockman</name>
+    </company>
+</user>

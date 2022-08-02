@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <id>3</id>
+    <name>Clementine Bauch</name>
+    <username>Samantha</username>
+    <email>Nathan@yesenia.net</email>
+    <phone>1-463-123-4447</phone>
+    <website>ramiro.info</website>
+    <address>
+        <city>McKenziehaven</city>
+        <geo>
+            <lat>-68.6102</lat>
+            <lng>-47.0653</lng>
+        </geo>
+        <street>Douglas Extension</street>
+        <suite>Suite 847</suite>
+        <zipcode>59590-4157</zipcode>
+    </address>
+    <company>
+        <bs>e-enable strategic applications</bs>
+        <catchPhrase>Face to face bifurcated interface</catchPhrase>
+        <name>Romaguera-Jacobson</name>
+    </company>
+</user>

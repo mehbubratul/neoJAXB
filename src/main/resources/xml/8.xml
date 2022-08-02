@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <id>8</id>
+    <name>Nicholas Runolfsdottir V</name>
+    <username>Maxime_Nienow</username>
+    <email>Sherwood@rosamond.me</email>
+    <phone>586.493.6943 x140</phone>
+    <website>jacynthe.com</website>
+    <address>
+        <city>Aliyaview</city>
+        <geo>
+            <lat>-14.3990</lat>
+            <lng>-120.7677</lng>
+        </geo>
+        <street>Ellsworth Summit</street>
+        <suite>Suite 729</suite>
+        <zipcode>45169</zipcode>
+    </address>
+    <company>
+        <bs>e-enable extensible e-tailers</bs>
+        <catchPhrase>Implemented secondary concept</catchPhrase>
+        <name>Abernathy Group</name>
+    </company>
+</user>

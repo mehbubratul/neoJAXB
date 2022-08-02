@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <id>7</id>
+    <name>Kurtis Weissnat</name>
+    <username>Elwyn.Skiles</username>
+    <email>Telly.Hoeger@billy.biz</email>
+    <phone>210.067.6132</phone>
+    <website>elvis.io</website>
+    <address>
+        <city>Howemouth</city>
+        <geo>
+            <lat>24.8918</lat>
+            <lng>21.8984</lng>
+        </geo>
+        <street>Rex Trail</street>
+        <suite>Suite 280</suite>
+        <zipcode>58804-1099</zipcode>
+    </address>
+    <company>
+        <bs>generate enterprise e-tailers</bs>
+        <catchPhrase>Configurable multimedia task-force</catchPhrase>
+        <name>Johns Group</name>
+    </company>
+</user>

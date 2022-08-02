@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <id>5</id>
+    <name>Chelsey Dietrich</name>
+    <username>Kamren</username>
+    <email>Lucio_Hettinger@annie.ca</email>
+    <phone>(254)954-1289</phone>
+    <website>demarco.info</website>
+    <address>
+        <city>Roscoeview</city>
+        <geo>
+            <lat>-31.8129</lat>
+            <lng>62.5342</lng>
+        </geo>
+        <street>Skiles Walks</street>
+        <suite>Suite 351</suite>
+        <zipcode>33263</zipcode>
+    </address>
+    <company>
+        <bs>revolutionize end-to-end systems</bs>
+        <catchPhrase>User-centric fault-tolerant solution</catchPhrase>
+        <name>Keebler LLC</name>
+    </company>
+</user>

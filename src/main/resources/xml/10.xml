@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <id>10</id>
+    <name>Clementina DuBuque</name>
+    <username>Moriah.Stanton</username>
+    <email>Rey.Padberg@karina.biz</email>
+    <phone>024-648-3804</phone>
+    <website>ambrose.net</website>
+    <address>
+        <city>Lebsackbury</city>
+        <geo>
+            <lat>-38.2386</lat>
+            <lng>57.2232</lng>
+        </geo>
+        <street>Kattie Turnpike</street>
+        <suite>Suite 198</suite>
+        <zipcode>31428-2261</zipcode>
+    </address>
+    <company>
+        <bs>target end-to-end models</bs>
+        <catchPhrase>Centralized empowering task-force</catchPhrase>
+        <name>Hoeger LLC</name>
+    </company>
+</user>
